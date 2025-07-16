@@ -266,7 +266,6 @@ Whether you're preparing for:
 
 Follow my journey and lets grow together:  
 - ⭐ Star this repo if you find it helpful
-- 🔁 Fork to start your own journey
 - 📌 [LinkedIn](https://linkedin.com/in/YOUR-ID)
 - 📘 [Hashnode Blog](https://YOUR-BLOG)
 - 💼 [Portfolio](https://YOUR-PORTFOLIO)
