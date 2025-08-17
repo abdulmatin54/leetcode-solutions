@@ -34,11 +34,55 @@ Welcome to **leetcode-solutions** – a high-quality, curated collection of **50
 
 ## 1. Sorting
 
-- Bubble, Insertion, Selection Sort
-- Merge Sort, Quick Sort
-- Counting Sort
-- Sorting with Custom Comparators  
 ### Ⅰ. Selection Sort
+**Problems**:
+
+| #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
+|-----|-----------------------------------------------------------------------|------------|------------------|-------------------|----------|
+| 1   | [Selection Sort](https://www.naukri.com/code360/problems/selection-sort_981162)                    | Easy       | O(n^2)             | O(n^2)              | [JavaScript Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/JavaScript/sort-the-array-into-non-decreasing-order.js)<br>[C++ Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/C%2B%2B/sort-the-array-into-non-decreasing-order.cpp) |
+
+[🔝 Back to Top](#-leetcode-solutions--javascript--c--master-dsa)
+### Ⅱ. Bubble Sort
+**Problems**:
+
+| #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
+|-----|-----------------------------------------------------------------------|------------|------------------|-------------------|----------|
+| 1   | [Selection Sort](https://www.naukri.com/code360/problems/selection-sort_981162)                    | Easy       | O(n^2)             | O(n^2)              | [JavaScript Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/JavaScript/sort-the-array-into-non-decreasing-order.js)<br>[C++ Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/C%2B%2B/sort-the-array-into-non-decreasing-order.cpp) |
+
+[🔝 Back to Top](#-leetcode-solutions--javascript--c--master-dsa)
+### Ⅲ. Insertion Sort
+**Problems**:
+
+| #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
+|-----|-----------------------------------------------------------------------|------------|------------------|-------------------|----------|
+| 1   | [Selection Sort](https://www.naukri.com/code360/problems/selection-sort_981162)                    | Easy       | O(n^2)             | O(n^2)              | [JavaScript Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/JavaScript/sort-the-array-into-non-decreasing-order.js)<br>[C++ Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/C%2B%2B/sort-the-array-into-non-decreasing-order.cpp) |
+
+[🔝 Back to Top](#-leetcode-solutions--javascript--c--master-dsa)
+### Ⅳ. Merge Sort
+**Problems**:
+
+| #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
+|-----|-----------------------------------------------------------------------|------------|------------------|-------------------|----------|
+| 1   | [Selection Sort](https://www.naukri.com/code360/problems/selection-sort_981162)                    | Easy       | O(n^2)             | O(n^2)              | [JavaScript Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/JavaScript/sort-the-array-into-non-decreasing-order.js)<br>[C++ Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/C%2B%2B/sort-the-array-into-non-decreasing-order.cpp) |
+
+[🔝 Back to Top](#-leetcode-solutions--javascript--c--master-dsa)
+### Ⅴ. Recursive Bubble Sort
+**Problems**:
+
+| #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
+|-----|-----------------------------------------------------------------------|------------|------------------|-------------------|----------|
+| 1   | [Selection Sort](https://www.naukri.com/code360/problems/selection-sort_981162)                    | Easy       | O(n^2)             | O(n^2)              | [JavaScript Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/JavaScript/sort-the-array-into-non-decreasing-order.js)<br>[C++ Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/C%2B%2B/sort-the-array-into-non-decreasing-order.cpp) |
+
+[🔝 Back to Top](#-leetcode-solutions--javascript--c--master-dsa)
+### Ⅵ. Recursive Insertion Sort
+**Problems**:
+
+| #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
+|-----|-----------------------------------------------------------------------|------------|------------------|-------------------|----------|
+| 1   | [Selection Sort](https://www.naukri.com/code360/problems/selection-sort_981162)                    | Easy       | O(n^2)             | O(n^2)              | [JavaScript Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/JavaScript/sort-the-array-into-non-decreasing-order.js)<br>[C++ Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/C%2B%2B/sort-the-array-into-non-decreasing-order.cpp) |
+
+[🔝 Back to Top](#-leetcode-solutions--javascript--c--master-dsa)
+### Ⅶ. Quick Sort
 **Problems**:
 
 | #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
