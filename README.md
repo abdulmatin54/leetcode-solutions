@@ -38,7 +38,7 @@ Welcome to **leetcode-solutions** – a high-quality, curated collection of **50
 - Merge Sort, Quick Sort
 - Counting Sort
 - Sorting with Custom Comparators  
-## Ⅰ. Selection Sort
+### Ⅰ. Selection Sort
 **Problems**:
 
 | #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
