@@ -1,42 +1,9 @@
-# leetcode-solutions
-DSA/Logic proof
 
 # 🚀 Leetcode Solutions – JavaScript & C++ | Master DSA
 
 Welcome to **leetcode-solutions** – a high-quality, curated collection of **500+ LeetCode problems** solved using **JavaScript (ES6+)**, and a C++ version is also available. These are the most essential coding problems that cover **everything you need to crack technical interviews** at top tech companies like **FAANG**, startups, and beyond.
 
 > 📌 **Built for speed, clarity, and mastery – this repo is your fast-track to becoming a top  Engineer.**
-
----
-
-## 📈 What's Inside
-
-- ✅ **500+ hand-picked LeetCode problems**
-- 🧠 **Clean, readable JavaScript solutions** with modern ES6+ syntax
-- 🔍 Detailed **time & space complexity analysis**
-- 💬 **Clear explanations** & inline comments
-- 📂 Organized by topic and difficulty (Easy, Medium, Hard)
-- 💥 Covers all key topics: Arrays, Strings, DP, Trees, Graphs, Recursion, and more
-- 🔄 Regular updates & improvements
-- 🌐 C++ solutions are available.
-
----
-
-## 🧠 Why This Repo?
-
-> Most devs get stuck doing random questions — this repo **strategically focuses** on the core 500 problems that **consistently appear in interviews**.
-
-Whether you're preparing for:
-- Coding interviews at **Google, Meta, Amazon, Netflix, Microsoft**
-- Your next **tech assessment or whiteboard session**
-- Or simply want to **master problem-solving and DSA in JavaScript**
-
-🎯 **This repo has everything you need to succeed.**
-
----
-
-> 💡 _This is more than just code – it's a roadmap to becoming a world-class problem solver._
-
 
 ---
 
@@ -71,7 +38,14 @@ Whether you're preparing for:
 - Merge Sort, Quick Sort
 - Counting Sort
 - Sorting with Custom Comparators  
+## Selection Sort
+**Problems**:
 
+| #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
+|-----|-----------------------------------------------------------------------|------------|------------------|-------------------|----------|
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                    | Easy       | O(n)             | O(n)              | [JavaScript Solution](./Easy/1-two-sum.cpp)<br>[C++ Solution](./Easy/1-two-sum.cpp) |
+
+[🔝 Back to Top](#-leetcode-solutions--javascript--c--master-dsa)
 ---
 
 ## 2. Arrays
