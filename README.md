@@ -42,7 +42,7 @@ Whether you're preparing for:
 
 ## 🧭 Table of Contents
 
-1. [📁 Arrays](#1-arrays)
+1. [📁 Sorting](#1-sorting)
 2. [📁 Searching & Sorting](#2-searching--sorting)
 3. [📁 Strings](#3-strings)
 4. [📁 Recursion](#4-recursion)
