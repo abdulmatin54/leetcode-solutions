@@ -35,7 +35,6 @@ Welcome to **leetcode-solutions** – a high-quality, curated collection of **50
 ## 1. Sorting
 
 ### Ⅰ. Selection Sort
-**Problems**:
 
 | #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
 |-----|-----------------------------------------------------------------------|------------|------------------|-------------------|----------|
@@ -43,7 +42,6 @@ Welcome to **leetcode-solutions** – a high-quality, curated collection of **50
 
 [🔝 Back to Top](#-leetcode-solutions--javascript--c--master-dsa)
 ### Ⅱ. Bubble Sort
-**Problems**:
 
 | #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
 |-----|-----------------------------------------------------------------------|------------|------------------|-------------------|----------|
@@ -51,7 +49,6 @@ Welcome to **leetcode-solutions** – a high-quality, curated collection of **50
 
 [🔝 Back to Top](#-leetcode-solutions--javascript--c--master-dsa)
 ### Ⅲ. Insertion Sort
-**Problems**:
 
 | #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
 |-----|-----------------------------------------------------------------------|------------|------------------|-------------------|----------|
@@ -59,7 +56,6 @@ Welcome to **leetcode-solutions** – a high-quality, curated collection of **50
 
 [🔝 Back to Top](#-leetcode-solutions--javascript--c--master-dsa)
 ### Ⅳ. Merge Sort
-**Problems**:
 
 | #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
 |-----|-----------------------------------------------------------------------|------------|------------------|-------------------|----------|
@@ -67,7 +63,6 @@ Welcome to **leetcode-solutions** – a high-quality, curated collection of **50
 
 [🔝 Back to Top](#-leetcode-solutions--javascript--c--master-dsa)
 ### Ⅴ. Recursive Bubble Sort
-**Problems**:
 
 | #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
 |-----|-----------------------------------------------------------------------|------------|------------------|-------------------|----------|
@@ -75,7 +70,6 @@ Welcome to **leetcode-solutions** – a high-quality, curated collection of **50
 
 [🔝 Back to Top](#-leetcode-solutions--javascript--c--master-dsa)
 ### Ⅵ. Recursive Insertion Sort
-**Problems**:
 
 | #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
 |-----|-----------------------------------------------------------------------|------------|------------------|-------------------|----------|
@@ -83,7 +77,6 @@ Welcome to **leetcode-solutions** – a high-quality, curated collection of **50
 
 [🔝 Back to Top](#-leetcode-solutions--javascript--c--master-dsa)
 ### Ⅶ. Quick Sort
-**Problems**:
 
 | #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
 |-----|-----------------------------------------------------------------------|------------|------------------|-------------------|----------|
