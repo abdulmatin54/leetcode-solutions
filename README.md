@@ -43,7 +43,7 @@ Welcome to **leetcode-solutions** – a high-quality, curated collection of **50
 
 | #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
 |-----|-----------------------------------------------------------------------|------------|------------------|-------------------|----------|
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                    | Easy       | O(n)             | O(n)              | [JavaScript Solution](./Easy/1-two-sum.cpp)<br>[C++ Solution](./Easy/1-two-sum.cpp) |
+| 1   | [Selection Sort]([https://leetcode.com/problems/two-sum/](https://www.naukri.com/code360/problems/selection-sort_981162))                    | Easy       | O(n^2)             | O(n^2)              | [JavaScript Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/JavaScript/sort-the-array-into-non-decreasing-order.js)<br>[C++ Solution]([./Easy/1-two-sum.cpp](https://github.com/abdulmatin54/leetcode-solutions/blob/main/C%2B%2B/sort-the-array-into-non-decreasing-order.cpp)) |
 
 [🔝 Back to Top](#-leetcode-solutions--javascript--c--master-dsa)
 ---
