@@ -45,7 +45,7 @@ Welcome to **leetcode-solutions** – a high-quality, curated collection of **50
 
 | #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
 |-----|-----------------------------------------------------------------------|------------|------------------|-------------------|----------|
-| 1   | [sort-the-array-using-bubble-sort](https://www.naukri.com/code360/problems/bubble-sort_980524)                    | Easy       | O(n^2)             | O(n^2)              | [JavaScript Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/JavaScript/sort-the-array-using-bubble-sort.js)<br>[C++ Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/C%2B%2B/sort-the-array-using-bubble-sort.cpp) |
+| 1   | [sort-the-array-using-bubble-sort](https://www.naukri.com/code360/problems/bubble-sort_980524)                    | Easy       | O(n^2)             | O(1)              | [JavaScript Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/JavaScript/sort-the-array-using-bubble-sort.js)<br>[C++ Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/C%2B%2B/sort-the-array-using-bubble-sort.cpp) |
 
 [🔝 Back to Top](#-leetcode-solutions--javascript--c--master-dsa)
 ### Ⅲ. Insertion Sort
