@@ -52,7 +52,7 @@ Welcome to **leetcode-solutions** – a high-quality, curated collection of **50
 
 | #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
 |-----|-----------------------------------------------------------------------|------------|------------------|-------------------|----------|
-| 1   | [Insertion-Sort]()                    | Easy       | O(n^2)             | O(n^2)              | [JavaScript Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/JavaScript/insertion-sort.js)<br>[C++ Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/C%2B%2B/insertion-sort.cpp) |
+| 1   | [Insertion-Sort]()                    | Easy       | O(n^2)             | O(n^2)              | [JavaScript Code](https://github.com/abdulmatin54/leetcode-solutions/blob/main/JavaScript/insertion-sort.js)<br>[C++ Code](https://github.com/abdulmatin54/leetcode-solutions/blob/main/C%2B%2B/insertion-sort.cpp) |
 
 [🔝 Back to Top](#-leetcode-solutions--javascript--c--master-dsa)
 ### Ⅳ. Merge Sort
