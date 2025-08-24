@@ -98,10 +98,9 @@ Welcome to **leetcode-solutions** – a high-quality, curated collection of **50
 
 **Problems**:
 
-| #   | Title                                                                 | Difficulty | Solution                                       |
-|-----|-----------------------------------------------------------------------|------------|------------------------------------------------|
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                    | Easy       | [Solution](./Easy/1-two-sum.cpp) [Solution in c++](./Easy/1-two-sum.cpp) |
-| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy       | [Solution](./Easy/121-best-time-to-buy-and-sell-stock.cpp) |
+| #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
+|-----|-----------------------------------------------------------------------|------------|------------------|-------------------|----------|
+| 1   | [largest-element-in-an-array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)                    | Easy       | O(n)             | O(1)              | [JavaScript Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/JavaScript/largest-element-in-an-array.js)<br>[C++ Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/C%2B%2B/largest-element-in-an-array.cpp) |
 
 [🔝 Back to Top](#-leetcode-solutions--javascript--c--master-dsa)
 
