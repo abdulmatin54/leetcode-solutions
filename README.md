@@ -101,6 +101,7 @@ Welcome to **leetcode-solutions** – a high-quality, curated collection of **50
 | #   | Title                                                                 | Difficulty | Time Complexity | Space Complexity | Solution |
 |-----|-----------------------------------------------------------------------|------------|------------------|-------------------|----------|
 | 1   | [largest-element-in-an-array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)                    | Easy       | O(n)             | O(1)              | [JavaScript Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/JavaScript/largest-element-in-an-array.js)<br>[C++ Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/C%2B%2B/largest-element-in-an-array.cpp) |
+| 2   | [Min Max in Array](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1)                    | Easy       | O(n)             | O(1)              | [JavaScript Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/JavaScript/min-and-max-in-an-array.js)<br>[C++ Solution](https://github.com/abdulmatin54/leetcode-solutions/blob/main/C%2B%2B/min-and-max-in-an-array.js) |
 
 [🔝 Back to Top](#-leetcode-solutions--javascript--c--master-dsa)
 
